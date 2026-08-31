@@ -1,0 +1,49 @@
+{
+  "publication": "MORROW TIDE JOURNAL",
+  "issue": "COAST / ISSUE 01",
+  "pageOne": {
+    "headline": "THE QUIET EDGE",
+    "deck": "Three days beside the Atlantic, where salt, stone, and weather set the pace.",
+    "byline": "Words by Morrow Tide Studio",
+    "columnOne": [
+      "At first light, the coast seems to hold its breath. The sea moves below the dark rock, but the road stays quiet. A pale line forms above the horizon. It shows the way before the sun reaches the fields. We leave the car near an old stone wall and follow a narrow path toward the water.",
+      "The air tastes of salt. Wind presses the grass flat, then lets it rise again. Each turn gives a new view of the same elements: water, stone, and open sky. Nothing asks us to hurry. The path sets a steady pace, and the morning becomes simple."
+    ],
+    "columnTwo": [
+      "By noon, the road turns inland. Small farms sit behind low walls. A bakery opens for a short lunch service, and warm bread fills the room. We take a table by the window. Soup, cheese, and strong coffee arrive without ceremony.",
+      "The afternoon brings rain. It starts as a fine mist and soon covers the headland. We wait beneath a deep porch until the bay returns. The delay feels useful. It gives the coast time to change its color and shape.",
+      "At dusk, we walk back beside the cliffs. The sea looks darker now, but the white water still marks every hidden ledge. A few lights appear across the fields. The day closes without a schedule, which was the reason to come."
+    ],
+    "sidebarTitle": "FIELD NOTES",
+    "sidebarBody": "Pack one light shell and shoes with a firm sole. Coastal weather can change within an hour. Start early, but leave each afternoon open. Small cafes often keep short hours outside summer. Carry water, a paper map, and one warm layer. Keep away from wet cliff edges. Ask before you cross private land. Most of all, allow time for stops that have no name on the map.",
+    "sidebarFacts": [
+      ["BEST PACE", "Two or three nights"],
+      ["PACK", "Shell, warm layer, firm shoes"],
+      ["LEAVE ROOM FOR", "Weather and long lunches"]
+    ],
+    "caption": "Atlantic rock and water. Photo: Angel Chavez / Unsplash."
+  },
+  "pageTwo": {
+    "headline": "A SLOW ROUTE NORTH",
+    "deck": "One road, three pauses, and enough time to notice what the map leaves out.",
+    "sections": [
+      {
+        "number": "01",
+        "title": "BLACKWATER BAY",
+        "body": "Reach the bay before breakfast. Low tide opens a wide shelf of stone beneath the cliffs. Pools hold small shells and clear water. Sit above the beach until the first fishing boat crosses the horizon. The road north begins here, but the view deserves a full hour."
+      },
+      {
+        "number": "02",
+        "title": "THE DUNE ROAD",
+        "body": "The coast softens beyond the headland. Dark rock gives way to pale sand and long grass. Park near the old gate and walk the final section. Wind moves through the dunes in visible lines. The sea stays close, even when the path drops behind the ridge."
+      },
+      {
+        "number": "03",
+        "title": "GREYHAVEN",
+        "body": "End the day in the small harbor. White houses face the water, and narrow streets lead to the quay. Order the simple plate of the day. Stay outside until the last light leaves the roofs. The route is short, but each stop gives it weight."
+      }
+    ],
+    "duneCaption": "Dune grass on Ireland's Atlantic coast. Photo: E Vos / Unsplash.",
+    "villageCaption": "Mosteiros, Azores. Photo: Marianne Lariviere / Unsplash."
+  }
+}
